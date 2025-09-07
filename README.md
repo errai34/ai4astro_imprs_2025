@@ -4,7 +4,7 @@ This repository contains materials for a transformer tutorial given at the AI fo
 
 ## Overview
 
-This tutorial covers the fundamentals of transformer architectures and their applications in astronomy. The materials include hands-on exercises to build understanding of attention mechanisms, encoder-decoder structures, and practical implementations.
+This tutorial covers the fundamentals of decoder-only transformer architectures and their applications in astronomy. The materials include hands-on exercises to build understanding of attention mechanisms, decoder structures, and practical implementations.
 
 ## Contents
 
@@ -21,7 +21,7 @@ This tutorial covers the fundamentals of transformer architectures and their app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[username]/ai4astro_imprs_2025.git
+   git clone https://github.com/errai34/ai4astro_imprs_2025.git
    cd ai4astro_imprs_2025
    ```
 
@@ -44,16 +44,16 @@ The tutorial is designed to be hands-on and interactive, covering:
 - Attention mechanisms and self-attention
 - Multi-head attention
 - Positional encoding
-- Transformer encoder and decoder blocks
-- Complete transformer implementation
+- Decoder-only transformer blocks
+- Complete decoder-only transformer implementation
 - Applications to astronomical data
 
 ## Learning Objectives
 
 By the end of this tutorial, participants will:
-- Understand the core concepts behind transformer architectures
+- Understand the core concepts behind decoder-only transformer architectures
 - Implement attention mechanisms from scratch
-- Build a complete transformer model using only NumPy
+- Build a complete decoder-only transformer model using only NumPy
 - Appreciate the power and flexibility of attention-based models for sequence processing
 
 ## Resources
