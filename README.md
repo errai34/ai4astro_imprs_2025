@@ -25,7 +25,7 @@ This tutorial covers the fundamentals of decoder-only transformer architectures.
    cd ai4astro_imprs_2025
    ```
 
-2. Install required dependencies:
+2. Install required dependencies (if you need to!):
    ```bash
    pip install numpy jupyter matplotlib
    ```
