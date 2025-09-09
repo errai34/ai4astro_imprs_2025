@@ -4,15 +4,15 @@ This repository contains materials for a transformer tutorial given at the AI fo
 
 ## Overview
 
-This tutorial covers the fundamentals of decoder-only transformer architectures and their applications in astronomy. The materials include hands-on exercises to build understanding of attention mechanisms, decoder structures, and practical implementations.
+This tutorial covers the fundamentals of decoder-only transformer architectures. The materials include hands-on exercises to build understanding of attention mechanisms.
 
 ## Contents
 
-- `numpy_transformer_student_fill_in.ipynb` - Interactive Jupyter notebook with fill-in exercises to implement a transformer from scratch using NumPy
+- `tutorial_attention_imprs.ipynb` - Interactive Jupyter notebook with fill-in exercises to implement a transformer from scratch using NumPy
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3+
 - NumPy
 - Jupyter Notebook
 - Basic understanding of linear algebra and neural networks
@@ -35,7 +35,7 @@ This tutorial covers the fundamentals of decoder-only transformer architectures 
    jupyter notebook
    ```
 
-4. Open `numpy_transformer_student_fill_in.ipynb` and follow the exercises
+4. Open `tutorial_attention_imprs.ipynb` and follow the exercises
 
 ## Tutorial Structure
 
@@ -44,23 +44,23 @@ The tutorial is designed to be hands-on and interactive, covering:
 - Attention mechanisms and self-attention
 - Multi-head attention
 - Positional encoding
-- Decoder-only transformer blocks
 - Complete decoder-only transformer implementation
-- Applications to astronomical data
 
 ## Learning Objectives
 
 By the end of this tutorial, participants will:
 - Understand the core concepts behind decoder-only transformer architectures
 - Implement attention mechanisms from scratch
-- Build a complete decoder-only transformer model using only NumPy
+- Build a decoder-only transformer model using only NumPy
 - Appreciate the power and flexibility of attention-based models for sequence processing
 
 ## Resources
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Original transformer paper
+- [Transformer Circuits] (https://transformer-circuits.pub/2021/framework/index.html) - A mechanistic interpretability approach to understanding transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Visual guide to transformers
 - [Transformers from Scratch](https://peterbloem.nl/blog/transformers) - Detailed implementation guide
+
 
 ## Contributing
 
