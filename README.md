@@ -59,7 +59,7 @@ By the end of this tutorial, participants will:
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Original transformer paper
 - [Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html) - A mechanistic interpretability approach to understanding transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Visual guide to transformers
-- [An ever more Illustrated Transformer](https://pi-tau.github.io/posts/transformer/#token-embedding-layer/)
+- [An ever more Illustrated Transformer](https://pi-tau.github.io/posts/transformer/#token-embedding-layer/) - Super intuitive explanations
 - [Transformers from Scratch](https://peterbloem.nl/blog/transformers) - Detailed implementation guide
 
 
