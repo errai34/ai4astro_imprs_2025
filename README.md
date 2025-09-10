@@ -4,7 +4,7 @@ This repository contains materials for a transformer tutorial given at the AI fo
 
 ## Overview
 
-This tutorial covers the fundamentals of decoder-only transformer architectures. The materials include hands-on exercises to build understanding of attention mechanisms.
+This tutorial covers the fundamentals of decoder-only transformer architectures. The materials include hands-on exercises to build understanding of the attention mechanism.
 
 ## Contents
 
@@ -41,10 +41,9 @@ This tutorial covers the fundamentals of decoder-only transformer architectures.
 
 The tutorial is designed to be hands-on and interactive, covering:
 
-- Attention mechanisms and self-attention
-- Multi-head attention
 - Positional encoding
-- Complete decoder-only transformer implementation
+- Attention mechanisms and self-attention
+- Backbone of the decoder-only transformer implementation
 
 ## Learning Objectives
 
