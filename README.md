@@ -1,6 +1,6 @@
 # AI4Astro IMPRS 2025 - Transformer Tutorial
 
-This repository contains materials for a transformer tutorial given at the AI for Astronomy IMPRS 2025 program.
+This repository contains materials for a transformer tutorial given at the AI for Astronomy IMPRS 2025 Summer School (https://www.imprs-hd.mpg.de/Summer-School).
 
 ## Overview
 
